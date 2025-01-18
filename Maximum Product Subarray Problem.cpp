@@ -85,7 +85,7 @@ int main(void)
     int n = sizeof(arr) / sizeof(arr[0]);
 
     // Tìm và in kết quả
-    printf("Tích lớn nhất của một dãy con liên tiếp là %d", findMaxProduct(arr, n));
+    printf("The maximum product of a subarray is %d", findMaxProduct(arr, n));
 
     return 0;
 }
