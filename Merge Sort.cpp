@@ -27,7 +27,7 @@
        + Dùng mảng phụ aux[] để lưu tạm thời các phần tử đã sắp xếp.
   
   3. Độ phức tạp:
-     - Thời gian: O(n log n).
+     - Thời gian: O(nlog(n)).
      - Không gian: O(n) do sử dụng mảng phụ aux[].
 */
 
