@@ -34,7 +34,7 @@
 /*
   Hàm Merge:
   -----------------
-  - Gộp hai mảng con đã được sắp xếp `arr[low…mid]` và `arr[mid+1…high]`.
+  - Gộp hai mảng con đã được sắp xếp arr[low…mid] và arr[mid+1…high].
   - Sử dụng mảng phụ aux[] để lưu tạm thời các phần tử đã được gộp.
 */
 void Merge(int arr[], int aux[], int low, int mid, int high) {
